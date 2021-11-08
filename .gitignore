@@ -247,6 +247,10 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
+
+# All csv files in data
+/data/csv/*.csv
+/data/*.csv
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,powershell,jupyternotebooks,visualstudiocode
